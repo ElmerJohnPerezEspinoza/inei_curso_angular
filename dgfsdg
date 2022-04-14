@@ -1,0 +1,251 @@
+[33mcommit 9fe25677026ed92dc15d890e7d04d6e29097237b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: elmer-linux <perez.espinoza.elmer@gmail.com>
+Date:   Wed Apr 13 12:51:27 2022 -0500
+
+    start project
+
+[33mcommit eec1d0d6e6a90e23a483ec10ceb2981815f0ad61[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/chapter-3-s8[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Tue Oct 5 14:25:54 2021 -0500
+
+    feat: add storage service
+    
+    - storage token
+
+[33mcommit b1b099f10aa018843d501aed5bb3fc2818fb4ff2[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Mon Oct 4 21:42:08 2021 -0500
+
+    feat: login api service
+    
+    - control error
+    - success redirect
+
+[33mcommit 5a974fb76f7ae41123be432282f3ea95bad771e0[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Mon Oct 4 21:16:55 2021 -0500
+
+    feat: add login page and form
+
+[33mcommit 644faa0d7c87cbae31363efb576e9da88ee88d01[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Mon Oct 4 20:40:04 2021 -0500
+
+    feat: add multilayout
+    
+    - website layout
+    - admin layout
+
+[33mcommit 7bae40b8e9e90d06f30bf5232585cb66a2b704e0[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Mon Oct 4 20:32:23 2021 -0500
+
+    fix: rename shared module
+
+[33mcommit 210d78ac99e8a9757ef52f5c02b9610e26d01488[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Mon Oct 4 20:15:32 2021 -0500
+
+    feat: add reactive form / suggestion form
+
+[33mcommit b0e4d26244158b2235ab1b1e259c461d184f57d8[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Mon Oct 4 19:18:25 2021 -0500
+
+    feat: template form / contactForm
+
+[33mcommit 046a8465de5e17b0c94c5333bf57016211231606[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Mon Oct 4 18:43:18 2021 -0500
+
+    feat: add module and page contact
+
+[33mcommit 16d9268bbad93bd4d016c0a1dbe82dbb291cab2d[m[33m ([m[1;31morigin/chapter-2-s5[m[33m)[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Sat Sep 11 11:17:39 2021 -0500
+
+    feat: add apiservice
+
+[33mcommit afc05df41dde00e669ada3ca390fa178e46cb6f3[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Sat Sep 11 10:45:19 2021 -0500
+
+    feat: service using observable
+    
+    - sucribe and unsuscribe
+
+[33mcommit 85f0eec80fe687641f7ff3725e9f8fbae302a6e6[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Sat Sep 11 10:25:19 2021 -0500
+
+    feat: using service with promise
+
+[33mcommit 4ffa63d28b8c08448c1e3e6663bcb0472b29c763[m[33m ([m[1;31morigin/chapter-2-s4[m[33m)[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 20:52:08 2021 -0500
+
+    feat: using DIP with ubigeo mock service
+
+[33mcommit 8f272baa854578bb67c8e4ecd14a33f645fe2921[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 20:39:36 2021 -0500
+
+    feat: add and using ubigeo service
+
+[33mcommit c4352fff807356068f37564ec4e1449258e34427[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 20:20:09 2021 -0500
+
+    feat: using mockdata
+
+[33mcommit 871ac7a613e5ada54c0b7d1f90cf82b2202466d4[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 20:08:08 2021 -0500
+
+    feat: add custom navbar with bootstrap
+
+[33mcommit 947ebe44eec85615f501168123597c19e7400290[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 20:00:33 2021 -0500
+
+    chore: add config bootstrap
+
+[33mcommit 9bd57c78b06fb4312c1071ebb63fdbdc9a81e678[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 19:46:49 2021 -0500
+
+    feat: add custom style
+
+[33mcommit 52cb7f648f8ac68ba5f14534a288461c7c0c3b89[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 19:16:08 2021 -0500
+
+    feat: communication between components using output
+
+[33mcommit e4c3ed9f28ebb06c00c210faf40308f308de82d5[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 18:59:12 2021 -0500
+
+    feat: add ngfor using input
+
+[33mcommit 557369353176fb49ec62bf10201d203048a49e73[m[33m ([m[1;31morigin/chapter-2-s3[m[33m)[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Fri Sep 10 18:08:23 2021 -0500
+
+    feat: communication between components using input
+    
+    - add interface
+
+[33mcommit 964be812cf00737496a9a9fdc2c5c41670cb0be9[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Tue Aug 31 20:45:53 2021 -0500
+
+    feat: desing components for reports
+
+[33mcommit 996fec9a369899ce3a18836d10ab8242d5410a78[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Tue Aug 31 20:42:16 2021 -0500
+
+    feat: desing components for maps
+
+[33mcommit 86e91025e23f2a3ec3c28ebaf4e4cae2847cbf3f[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Tue Aug 31 20:19:14 2021 -0500
+
+    feat: add custom menu
+    
+    - add routerLink
+
+[33mcommit 754f5d50d6025c2e687a43154a5f5b4fdc91ba57[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Tue Aug 31 20:07:00 2021 -0500
+
+    feat: add page component
+
+[33mcommit a787611f4a44f052c18d1a0700dc1ed78d16d349[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Tue Aug 31 19:33:54 2021 -0500
+
+    feat: add project general structure
+    
+    - usign lazyloading
+
+[33mcommit 699cb6aa4e24371e41bd2421c214eb6ae4625b37[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Tue Aug 31 19:09:46 2021 -0500
+
+    feat: add routing for components
+
+[33mcommit bc67b9dc50c5caff5b062205d12b90a9ac0547de[m[33m ([m[1;31morigin/chapter-1-s2[m[33m)[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 20:56:35 2021 -0500
+
+    feat: use directives
+
+[33mcommit b2848dd264bc154317781edc8f0ed2fb3848a809[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 20:11:08 2021 -0500
+
+    feat: example component life cycle
+
+[33mcommit 2bbc8fcaa1f30be59b9f9c2d2e342d8dce289c9d[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 19:47:33 2021 -0500
+
+    feat: create component in custom module
+
+[33mcommit 8958c2b992e71de8eaff016f27dbd765c65e6749[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 19:43:01 2021 -0500
+
+    feat: add global component
+
+[33mcommit 8fed3b8af79f68958f2f961bcd12c9e042cb7544[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 19:38:53 2021 -0500
+
+    refactor: move example bindig to custom component
+
+[33mcommit 83467053b0e3632f87eb190e39c850a0553bfc8f[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 19:30:31 2021 -0500
+
+    feat: create a custom component
+    
+    - add to parent module
+    - export component
+    - usage component
+
+[33mcommit 1cc1195eb0829edff070c8a75d7cdf903156b295[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 19:18:46 2021 -0500
+
+    feat: create custom module
+
+[33mcommit f3408e83caea0102fbdef69c74c6a560be13d12a[m[33m ([m[1;31morigin/chapter-1-s1[m[33m)[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 18:07:30 2021 -0500
+
+    feat: Practical examples of data binding
+
+[33mcommit 408d715b52ac9f5ca0187c9bfafba9f293cdd95b[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 17:58:58 2021 -0500
+
+    feat: my first component
+    
+    - create a hello word component
+
+[33mcommit 74e617fcfd537b53fadd49d9c1b170a942957cf8[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 17:52:45 2021 -0500
+
+    feat: learning about the elements of angular
+    
+    - clean app component template
+
+[33mcommit d811eb44582a625c207310a6586eea5a9c78aa61[m
+Author: Jose Ramirez <jcramireztello@gmail.com>
+Date:   Thu Aug 26 17:32:59 2021 -0500
+
+    initial commit
